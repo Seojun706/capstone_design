@@ -1,0 +1,16 @@
+{
+    "FamilyName": "윤",
+    "GivenName": "서준",
+    "id": "aaron0706",
+    "password": "1234",
+    "Birth": "19990706",
+    "Gender": "남자",
+    "PhoneNumber": "",
+    "Height": "180",
+    "Weight": "75",
+    "BloodType": "O",
+    "Symptoms": "\"머리가 깨지는 듯이 아픔, 지속적인 두통\"",
+    "Diagnosis": "\"긴장성 두통, 편두통\"",
+    "Treatment": "\"신경과에서 정밀한 검사 예약 권장\"",
+    "Additional_Question": "\"두통이 처음인지, 과거에 유사한 증상이 있었는지\""
+}
